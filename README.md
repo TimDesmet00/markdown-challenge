@@ -24,3 +24,11 @@ _Les grands accomplissement sont réussis non par la force, mais par la perséve
 - Rester objectif dans la résolution d'un conflit.
 
 ##### Une histoire drôle
+
+le matin quand je ne suis pas bien reveiller et que je passe a coté de la porte qui est deja ouverte j'ai mes vetement qui reste accroche a la clinche et je me casse la figure.
+
+###### TL;DR
+
+quand je passe a coté d'une porte je reste accroché a la clinche.
+
+[précédent]() [suivant]()
