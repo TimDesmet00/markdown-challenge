@@ -31,4 +31,4 @@ Le matin quand je ne suis pas bien réveillé et que je passe à côté de la po
 
 Quand je passe à côté d'une porte je reste accroché à la clinche.
 
-[précédent](https://github.com/Takowski/markdown-challenge) [suivant](https://github.com/vdourson2/markdown-challenge)
+<<[précédent](https://github.com/Takowski/markdown-challenge)|| Desmet Tim || [suivant](https://github.com/vdourson2/markdown-challenge)>>
