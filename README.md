@@ -20,15 +20,15 @@ _Les grands accomplissement sont réussis non par la force, mais par la perséve
 
 #### Tu peux toujours compter sur moi quand...
 
-- Il sagit de rendre un service (dans la mesures de mes moyens).
+- Il sagit de rendre un service (dans la mesure de mes moyens).
 - Rester objectif dans la résolution d'un conflit.
 
 ##### Une histoire drôle
 
-le matin quand je ne suis pas bien reveiller et que je passe a coté de la porte qui est deja ouverte j'ai mes vetement qui reste accroche a la clinche et je me casse la figure.
+Le matin quand je ne suis pas bien réveillé et que je passe à côté de la porte qui est déjà ouverte j'ai mes vêtements qui reste accrocher à la clinche et je me casse la figure.
 
 ###### TL;DR
 
-quand je passe a coté d'une porte je reste accroché a la clinche.
+Quand je passe à côté d'une porte je reste accroché à la clinche.
 
 [précédent]() [suivant]()
