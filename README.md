@@ -12,7 +12,7 @@ _Les grands accomplissement sont réussis non par la force, mais par la perséve
 
 - La randonnée
 - Les animés
-- Les jeux de rôles :
+- Les jeux de rôle :
   - Sur table
   - Grandeur nature
 - Le jardinage
@@ -31,4 +31,4 @@ Le matin quand je ne suis pas bien réveillé et que je passe à côté de la po
 
 Quand je passe à côté d'une porte je reste accroché à la clinche.
 
-[précédent]() [suivant]()
+[précédent](https://github.com/Takowski/markdown-challenge) [suivant](https://github.com/vdourson2/markdown-challenge)
